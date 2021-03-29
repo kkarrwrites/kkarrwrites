@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @katherine-karr.
+- 👋 Hi, I’m [Katherine](https://github.com/katherine-karr).
 - 😀 My pronouns are she/they.
 - 👀 I’m interested in writing, editing, and web development.
 - 🌱 I’m currently learning HTML, CSS, JavaScript, and Python.
