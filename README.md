@@ -3,7 +3,7 @@
 - 👀 I’m interested in writing, editing, and web development.
 - 🌱 I’m currently learning HTML, CSS, JavaScript, and Python.
 - 🔭 I'm currently working on a [Django Girls](https://tutorial.djangogirls.org/en/) project.
-- 📫 You can reach me at [GitHub](https://github.com/pizzaandchicken).
+- 📫 You can reach me via [GitHub](https://github.com/pizzaandchicken).
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pizzaandchicken)](https://github.com/pizzaandchicken/github-readme-stats)
 
