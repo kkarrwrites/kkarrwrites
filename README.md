@@ -3,7 +3,7 @@
 - 👀 I’m interested in writing, editing, and web development.
 - 🌱 I’m currently learning HTML, CSS, and JavaScript.
 - ⌨️ I use Visual Studio Code.
-- 🔭 I'm currently working on a mockup of a software company's website, as well as a [Django Girls](https://tutorial.djangogirls.org/en/) project.
+- 🔭 I'm currently working on a "copy cat" of a software company's website, as well as a [Django Girls](https://tutorial.djangogirls.org/en/) project.
 - 📫 You can reach me via [GitHub](https://github.com/pizzaandchicken).
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pizzaandchicken)](https://github.com/pizzaandchicken/github-readme-stats)
