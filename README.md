@@ -1,9 +1,10 @@
-- 👋 Hi, I’m [pizzaandchicken](https://github.com/pizzaandchicken).
+- 👋 Hi, I’m [pizzaandchicken](https://github.com/pizzaandchicken)🍕🍗.
 - 😀 My pronouns are she/they.
 - 👀 I’m interested in writing, editing, and web development.
-- 🌱 I’m currently learning HTML, CSS, and JavaScript.
+- 🌱 I’m currently learning HTML, CSS, JavaScript, and Python.
 - ⌨️ I use Visual Studio Code.
-- 🔭 I'm currently working on a "copy cat" of a software development company's website as practice, as well as a [Django Girls](https://tutorial.djangogirls.org/en/) project.
+- 🌳 In March 2021, I completed the Front End Web Development and Web Design Tracks on [Treehouse](https://teamtreehouse.com/).
+- 🔭 For practice, I'm currently working on coding a copy of a software development company's website, as well as the [Django Girls](https://tutorial.djangogirls.org/en/) Tutorial project.
 - 📫 You can reach me via [GitHub](https://github.com/pizzaandchicken).
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pizzaandchicken)](https://github.com/pizzaandchicken/github-readme-stats)
