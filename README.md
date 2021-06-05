@@ -4,7 +4,6 @@
 - 🌱 I’m currently learning HTML, CSS, JavaScript, and Python.
 - ⌨️ I code in Visual Studio Code.
 - 🌳 In March 2021, I completed the "Front End Web Development" and "Web Design Tracks" on [Treehouse](https://teamtreehouse.com/).
-- 📛 On June 5, 2021, I attended a one-day online [Django Girls](https://djangogirls.org/porto/) workshop.
 - 🔭 I'm currently working on a project coding a copy of a company's website, as well as on the [Django Girls](https://tutorial.djangogirls.org/en/) tutorial.
 - 📫 You can reach me via [GitHub](https://github.com/pizzaandchicken).
 
