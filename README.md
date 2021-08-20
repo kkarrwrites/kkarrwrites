@@ -1,4 +1,4 @@
-- 👋 Hi, I am [pizzaandchicken](https://github.com/pizzaandchicken). My pronouns are she/they.
+- 👋 Hi, I am [pizzaandchicken](https://github.com/pizzaandchicken).
 - 👶 I was born in Buffalo, NY—home of the best pizza and chicken wings—but I currently live in Denver, Colorado.
 - 👀 I am a writer, editor, and web developer.
 - ⌨️ I code in Visual Studio Code.
