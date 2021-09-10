@@ -1,6 +1,6 @@
 - 👋 Hi, I am [pizzaandchicken](https://github.com/pizzaandchicken).
 - 👶 I was born in Buffalo, NY—home of the best pizza and chicken wings—but I currently live in Denver, Colorado.
-- 👀 I am a writer, editor, and web developer.
+- 👀 I am an editor, writer, and web developer.
 - ⌨️ I code in Visual Studio Code.
 - 🗺️ My coding journey began when I was in high school, writing HTML on Expage and GeoCities websites.
 - 🧐 I became serious about coding in 2020 and started learning HTML, CSS, and JavaScript.
