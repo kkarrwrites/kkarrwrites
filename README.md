@@ -1,11 +1,10 @@
 - 👋 Hi, I am [pizzaandchicken](https://github.com/pizzaandchicken).
 - 👶 I was born in Buffalo, NY—home of the best pizza and chicken wings—but I currently live in Denver, Colorado.
-- 👀 I am an editor, writer, and web developer.
-- ⌨️ I code in Visual Studio Code.
+- 👀 I am a writer, editor, and web developer.
 - 🗺️ My coding journey began when I was in high school, writing HTML on Expage and GeoCities websites.
 - 🧐 I became serious about coding in 2020 and started learning HTML, CSS, and JavaScript.
 - 🌳 In March 2021, I completed the "Front End Web Development" and "Web Design" Tracks on [Treehouse](https://teamtreehouse.com/).
-- 🔭 Currently, I am working on creating a copy of a company website, as well as on the [Django Girls](https://tutorial.djangogirls.org/en/) tutorial.
+- 🔭 Currently, I am working on coding a copy of a company website, as well as on the [Django Girls](https://tutorial.djangogirls.org/en/) tutorial.
 - 📫 You can reach me via [GitHub](https://github.com/pizzaandchicken).
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pizzaandchicken)](https://github.com/pizzaandchicken/github-readme-stats)
