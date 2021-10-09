@@ -1,5 +1,6 @@
 - 👋 Hello, I'm [pizzaandchicken](https://github.com/pizzaandchicken).
-- 👶 I was born in Buffalo, NY—home of the best pizza and chicken wings 🍕🍗—but I currently live in Denver, CO—home of the best green chili 🌶️.
+- 👶 I was born in Buffalo, NY, home of the best pizza and chicken wings 🍕🍗.
+-  📍 I currently live in Denver, CO, home of the best green chili 🌶️.
 - 💻 I'm a coder, editor, and writer.
 - 🗺️ My coding journey began when I was in high school, writing HTML for Expage and GeoCities websites.
 - 🧐 I became serious about coding in 2020 and began learning HTML, CSS, and JavaScript.
