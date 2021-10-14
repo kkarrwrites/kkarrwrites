@@ -1,7 +1,7 @@
 - 👋 Hello, I'm [pizzaandchicken](https://github.com/pizzaandchicken).
 - 👶 I was born in Buffalo, NY, home of the best pizza and chicken wings. 🍕🍗
 - 🏠 I currently live in Denver, CO, home of the best green chili. 🌶️
-- 💻 I'm a coder, editor, and writer.
+- 💻 I'm a coder, copy editor, and writer.
 - 🗺️ My coding journey began when I was in high school, writing HTML for Expage, GeoCities, and LiveJournal.
 - 🧐 I became serious about coding in 2020 and began learning HTML, CSS, and JavaScript.
 - 🌳 In March 2021, I completed the "Front End Web Development" and "Web Design" Tracks on [Treehouse](https://teamtreehouse.com/).
