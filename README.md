@@ -5,7 +5,6 @@
 - 🗺️ My coding journey began when I was in high school, writing HTML for Expage, GeoCities, and LiveJournal.
 - 🧐 I became serious about coding in 2020 and began learning HTML, CSS, and JavaScript.
 - 🌳 In March 2021, I completed the "Front End Web Development" and "Web Design" Tracks on [Treehouse](https://teamtreehouse.com/).
-- 📫 You can reach me via [GitHub](https://github.com/pizzaandchicken).
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pizzaandchicken)](https://github.com/pizzaandchicken/github-readme-stats)
 
