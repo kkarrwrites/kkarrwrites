@@ -3,7 +3,7 @@
 - 🏠 I currently live in Denver, CO, home of the best green chili. 🌶️
 - 💻 I am a coder, copy editor, and writer.
 - 🗺️ My coding journey began when I was in high school, writing HTML for Expage, GeoCities, and LiveJournal.
-- 🧐 In 2020, I became serious about coding and began learning HTML, CSS, and JavaScript.
+- 🧐 In 2019, I became serious about coding and began learning HTML, CSS, and JavaScript.
   - 🌳 In March 2021, I completed the "Front End Web Development" and "Web Design" Tracks on [Treehouse](https://teamtreehouse.com/).
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pizzaandchicken)](https://github.com/pizzaandchicken/github-readme-stats)
