@@ -1,4 +1,4 @@
-- 👋 Hello, I'm [pizzaandchicken](https://github.com/pizzaandchicken).
+- 👋 Hello, I'm K. Karr.
 - 👶 I was born in Buffalo, NY, home of the best pizza and chicken wings. 🍕🍗
 - 🏠 I currently live in Denver, CO, home of the best green chili. 🌶️
 - 💻 I am a coder, copy editor, and writer.
