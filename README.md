@@ -1,4 +1,4 @@
-## 😊 Profile:
+## 😊 Overview:
 
 - 👋 Hello, I'm "[pizzaandchicken](https://github.com/pizzaandchicken/)."
 - 👶 I was born in Buffalo, NY, home of the best pizza and chicken wings. 🍕🍗
