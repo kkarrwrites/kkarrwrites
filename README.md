@@ -1,4 +1,4 @@
-## 😊 Overview:
+## 🍕🍗 Overview:
 
 - 👋 Hello, I'm "[pizzaandchicken](https://github.com/pizzaandchicken/)."
 - 💻 I'm a coder, copy editor, and writer.
@@ -7,13 +7,13 @@
   - 🌳 In March 2021, I completed the "Front End Web Development" and "Web Design" Tracks on Treehouse.
   - 🏕️ In October 2021, I completed the "Responsive Web Design Certification" on [freeCodeCamp](https://www.freecodecamp.org/pizzaandchicken).
 
-## 🧰 Languages and Tools:
+## ✍️🔨 Languages and Tools:
 <p><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML" height="40" style="vertical-align:top; margin:4px"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS" height="40" style="vertical-align:top; margin:4px"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript" height="40" style="vertical-align:top; margin:4px"> <img src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" alt="GitHub" height="40" style="vertical-align:top; margin:4px"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px"> <img src="https://raw.githubusercontent.com/github/explore/728542e0d33f83720614f61923a9cb424264db23/topics/firefox/firefox.png" alt="Firefox" height="40" style="vertical-align:top; margin:4px"></p>
 
 ## ☎️ Most Used Languages:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pizzaandchicken)](https://github.com/pizzaandchicken/github-readme-stats)
 
-## 🧮 GitHub Stats:
+## 🐙🐈 GitHub Stats:
 [![Katherine's github stats](https://github-readme-stats.vercel.app/api?username=pizzaandchicken&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
