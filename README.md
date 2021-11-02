@@ -4,8 +4,8 @@
 - 💻 I'm a coder, copy editor, and writer.
 - 🗺️ My coding journey began when I was in high school, writing HTML for Expage, GeoCities, and LiveJournal.
 - 🧐 In September 2019, I became serious about coding and began learning HTML, CSS, and JavaScript.
-  - 🌳 In March 2021, I completed the "Front End Web Development" and "Web Design" Tracks on Treehouse.
-  - 🏕️ In October 2021, I completed the "Responsive Web Design Certification" on [freeCodeCamp](https://www.freecodecamp.org/pizzaandchicken).
+- 🌳 In March 2021, I completed the "Front End Web Development" and "Web Design" Tracks on Treehouse.
+- 🏕️ In October 2021, I completed the "Responsive Web Design Certification" on [freeCodeCamp](https://www.freecodecamp.org/pizzaandchicken).
 
 ## 🔨 Languages and Tools:
 <p><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML" height="40" style="vertical-align:top; margin:4px"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS" height="40" style="vertical-align:top; margin:4px"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript" height="40" style="vertical-align:top; margin:4px"></p>
