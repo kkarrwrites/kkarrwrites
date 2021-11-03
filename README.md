@@ -1,4 +1,4 @@
-## 🍕🍗 Overview:
+## 🍵 Overview:
 
 - 👋 Hello, I'm K. Karr.
 - 💻 I'm a coder, copy editor, and writer.
