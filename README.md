@@ -12,12 +12,12 @@
 <p><img src="https://raw.githubusercontent.com/github/explore/728542e0d33f83720614f61923a9cb424264db23/topics/firefox/firefox.png" alt="Firefox" height="40" style="vertical-align:top; margin:4px"> <img src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" alt="GitHub" height="40" style="vertical-align:top; margin:4px"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px"></p>
 
 ## ✏️ Most Used Languages:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pizzaandchicken)](https://github.com/pizzaandchicken/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kkarrwrites)](https://github.com/pizzaandchicken/github-readme-stats)
 
 ## 🐙🐈 GitHub Stats:
-[![Katherine's github stats](https://github-readme-stats.vercel.app/api?username=pizzaandchicken&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+[![Katherine's github stats](https://github-readme-stats.vercel.app/api?username=kkarrwrites&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
-pizzaandchicken/pizzaandchicken is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+kkarrwrites/kkarrwrites is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
