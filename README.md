@@ -4,7 +4,7 @@
 - 📖 I'm a coder, editor, and writer.
 - 🗺️ My coding journey began when I was in high school, writing HTML for Expage, GeoCities, and LiveJournal.
 - 🧐 In September 2019, I became serious about coding and began learning HTML, CSS, and JavaScript.
-- 🌳 In March 2021, I completed the "Front End Web Development" and "Web Design" Tracks on Treehouse.
+- 🌳 In March 2021, I completed the "Front End Web Development" and "Web Design" tracks on Treehouse.
 - 🏕️ In October 2021, I completed the "Responsive Web Design Certification" on [freeCodeCamp](https://www.freecodecamp.org/kkarrwrites).
 
 ## 💻 Languages and Tools:
