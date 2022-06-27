@@ -1,6 +1,6 @@
 ## 🍵 Overview:
 
-- 👋 Hello, I'm K. Karr.
+- 👋 Hello, I'm K. Karr (she/her).
 - 📖 I'm a coder, editor, and writer.
 - 🗺️ My coding journey began when I was in high school, writing HTML for Expage, GeoCities, and LiveJournal.
 - 🧐 In September 2019, I became serious about coding and began learning CSS, HTML, JavaScript, and Sass.
