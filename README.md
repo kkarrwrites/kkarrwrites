@@ -3,7 +3,7 @@
 - 👋 Hello, I'm K. Karr.
 - 📖 I'm a coder, copy editor, and writer.
 - 🗺️ My coding journey began when I was in high school, writing HTML for Expage, GeoCities, and LiveJournal.
-- 🧐 In September 2019, I became serious about coding and began learning CSS, HTML, and JavaScript.
+- 🧐 In September 2019, I became serious about coding and began learning HTML, CSS, and JavaScript.
 - 📰 I've written more about my self-taught coding journey on [Medium](https://medium.com/@kkarrwrites).
 
 ## 💻 Languages and Tools:
