@@ -1,7 +1,7 @@
 ## 🍵 Overview:
 
 - 👋 Hello, I'm K. Karr.
-- 📖 I'm a frontend web developer, copy editor, and writer.
+- 📖 I'm a frontend web developer.
 - 🗺️ My coding journey began when I was in high school, writing HTML for Expage, GeoCities, and LiveJournal.
 - 🧐 In September 2019, I became serious about coding and began learning HTML, CSS, and JavaScript.
 
