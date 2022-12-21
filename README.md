@@ -8,8 +8,8 @@
 ## Skills
 
 - Frontend: HTML, CSS, SCSS/Sass, JavaScript
+  - Frameworks and Libraries: Bootstrap, Google Fonts, jQuery
   - Methodologies: BEM, OOCSS
-  - Libraries and Frameworks: Bootstrap, Google Fonts, jQuery
 - Tools: CLI, Figma, Git, GitHub, VS Code, WordPress
 - Other: Chrome, Firefox, Microsoft Office, Slack, Trello, Windows, Zoom
 
