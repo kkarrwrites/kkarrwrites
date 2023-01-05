@@ -8,7 +8,8 @@
 ## Skills
 
 - **Frontend:** HTML, CSS, SCSS/Sass, JavaScript
-  - **Frameworks and Libraries:** Bootstrap, Google Fonts, jQuery
+  - **APIs:** Fetch, HTML DOM, Web Storage
+  - **Frameworks and Libraries:** Bootstrap, Font Awesome, Google Fonts, jQuery
   - **Methodologies:** BEM, OOCSS
 - **Tools**: CLI, Figma, Git, GitHub, VS Code, WordPress
 - **Other:** Chrome, Firefox, Microsoft Office, Slack, Trello, Windows, Zoom
