@@ -18,10 +18,12 @@
 
 - [Portfolio](https://kkarrwrites.carrd.co/)
 
-## 📈 Stats
+## 📈 GitHub Stats
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kkarrwrites&layout=compact"/>
 <img src="https://github-readme-stats.vercel.app/api?username=kkarrwrites&show_icons=true"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=kkarrwrites"/>
+
+## 🐍 Contributions
 
 ![snake gif](https://github.com/kkarrwrites/kkarrwrites/blob/output/github-contribution-grid-snake.gif)
