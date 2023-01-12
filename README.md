@@ -9,7 +9,7 @@
 
 - **Frontend:** HTML, CSS, SCSS/Sass, JavaScript
   - **APIs:** DOM, Fetch, Web Storage
-  - **Frameworks and Libraries:** Bootstrap, Font Awesome, Google Fonts, jQuery
+  - **Frameworks and Libraries:** Bootstrap, Font Awesome, Google Fonts, jQuery, Tailwind CSS
   - **Methodologies:** BEM, OOCSS
 - **Tools**: CLI, Figma, Git, GitHub, VS Code, WordPress
 - **Other:** Chrome, Firefox, Microsoft Office, Slack, Trello, Windows, Zoom
