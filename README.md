@@ -11,6 +11,7 @@
   - **APIs:** DOM, Fetch, Web Storage
   - **Frameworks and Libraries:** Bootstrap, Font Awesome, Google Fonts, jQuery, Tailwind CSS
   - **Methodologies:** BEM, OOCSS
+- **Backend:** Node.js
 - **Tools**: CLI, Figma, Git, GitHub, VS Code, WordPress
 - **Other:** Chrome, Firefox, Microsoft Office, Slack, Trello, Windows, Zoom
 
