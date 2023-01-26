@@ -3,9 +3,9 @@
 - 👋 Hello! My name is K. Karr. I'm a copy editor turned web developer.
 - 🖥️ I got my start writing HTML on Expage, GeoCities, and LiveJournal in high school.
 - 🗺️ After collecting a few degrees, living abroad for two years, and cutting my teeth as a copy editor for nearly a decade, I returned to web development out of a strong desire to learn more about the technologies I use every day.
-- 🐱‍💻 I specialize in HTML, CSS, SCSS/Sass, and JavaScript, as well as the MERN Stack.
+- 🐱‍💻 I specialize in the frontend—HTML, CSS, SCSS/Sass, and JavaScript—as well as the backend—the MERN stack.
 
-## 📐 Skills
+## 🎨 Skills
 
 - **Frontend:** HTML55, CSS3, SCSS/Sass, JavaScript ES6
   - **APIs:** DOM, Fetch, Web Storage
