@@ -5,7 +5,7 @@
 - 🗺️ After collecting a few degrees, living abroad for two years, and cutting my teeth as a copy editor for nearly a decade, I returned to web development out of a strong desire to learn more about the technologies I use every day.
 - 🐱‍💻 I specialize in the frontend—HTML, CSS, SCSS/Sass, JavaScript, and jQuery—as well as the backend—the MERN stack.
 
-## 🎨 Skills
+## 🎨 Technical Skills
 
 - **Frontend:** HTML55, CSS3, SCSS/Sass, JavaScript ES6
   - **APIs:** DOM, Fetch, Web Storage
