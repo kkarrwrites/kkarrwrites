@@ -7,7 +7,7 @@
 
 ## 🎨 Technical Skills
 
-- **Frontend:** HTML55, CSS3, SCSS/Sass, JavaScript ES6
+- **Frontend:** HTML5, CSS3, SCSS/Sass, JavaScript ES6
   - **APIs:** DOM, Fetch, Web Storage
   - **Frameworks and Libraries:** Bootstrap, Font Awesome, Google Fonts, jQuery, Tailwind CSS
   - **Methodologies:** BEM, OOCSS
