@@ -8,7 +8,7 @@
 ## 🎨 Technical Skills
 
 - **Languages:** HTML, CSS, SCSS (Sass), JavaScript
-- **Libraries and Frameworks:** Bootstrap, jQuery, Tailwind CSS
+- **Libraries and Frameworks:** Bootstrap, Tailwind CSS, jQuery
 - **Databases:** MySQL, NoSQL
 - **Stack:** MERN (MongoDB, Express.js, React, Node.js)
 - **Methodologies:** BEM, OOP
