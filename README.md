@@ -4,7 +4,7 @@
 - 🖥️ I got my start writing HTML for Expage, GeoCities, and LiveJournal in high school.
 - 🗺️ After collecting a few degrees, living abroad for two years, and cultivating an eye for detail working as a copy editor for nearly a decade, I returned to web development out of a strong desire to learn more about the technologies I use every day.
 - 🐱‍💻 I specialize in frontend development—HTML, CSS, and JavaScript—as well as backend development—MERN stack (MongoDB, Express.js, React.js, Node.js).
-- 🧘 In my freetime I enjoy meditating on the universe, reading at least 52 books each year, writing SF/F stories, and traveling.
+- 🖼️ In my freetime I enjoy meditating on the universe, reading at least 52 books each year, writing fiction, and visiting museums.
 
 ## 🎨 Technical Skills
 
