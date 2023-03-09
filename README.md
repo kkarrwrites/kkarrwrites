@@ -11,7 +11,7 @@
 - **Languages:** HTML, CSS, SCSS (Sass), JavaScript
 - **Libraries/Frameworks:** Bootstrap, Tailwind CSS
 - **JavaScript Libraries/Frameworks:** jQuery, Node.js, Express.js, React.js
-- **Databases:** MySQL, NoSQL, MongoDB
+- **Databases:** MySQL, Sequelize, MongoDB
 - **Methodologies/Paradigms:** BEM, OOP
 - **Integrated Development Environment:** Visual Studio Code (VS Code)
 - **Miscellaneous:** CLI, Git, GitHub, Microsoft Office
