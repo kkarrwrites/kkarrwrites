@@ -13,7 +13,7 @@
 - **JavaScript Libraries/Frameworks:** jQuery, Node.js, Express.js, React.js
 - **Databases:** MySQL, Sequelize
 - **Methodologies/Paradigms:** Block Element Modifier (BEM), Object-Oriented Programming (OOP), Model–view–controller (MVC)
-- **Integrated Development Environment:** Visual Studio Code (VS Code)
+- **Integrated Development Environment:** VS Code
 - **Miscellaneous:** CLI, Git, GitHub, Microsoft Office
 
 ## 📁 Projects
