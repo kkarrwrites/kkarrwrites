@@ -2,7 +2,7 @@
 
 - 👋 Hello! I'm K. Karr, a copy editor turned frontend web developer.
 - 🖥️ I got my start tinkering with HTML for Expage, GeoCities, and LiveJournal in high school.
-- 🗺️ After collecting a few degrees, living abroad for two years, and cultivating an eye for detail working as a copy editor for nearly a decade, I returned to web development out of a strong desire to learn more about the technologies I use every day.
+- 🗺️ After collecting a few degrees, living abroad for two years, and cultivating an eye for detail working as a copy editor for a decade, I returned to web development out of a strong desire to learn more about the technologies I use every day.
 - 🐱‍💻 I specialize in HTML, CSS, JavaScript, Node.js, Express.js, React, and MongoDB.
 
 ## 📁 Projects
