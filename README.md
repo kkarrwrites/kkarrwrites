@@ -13,7 +13,7 @@
 - **Languages:** HTML, CSS, SCSS (Sass), JavaScript
 - **Libraries/Frameworks:** Bootstrap, Bulma, Tailwind CSS
 - **JavaScript Libraries/Frameworks:** jQuery, Node.js, Express.js, React.js
-- **Databases:** NoSQL, MongoDB, Mongoose ODM, MySQL, Sequelize ORM
+- **Databases:** NoSQL, MongoDB, Mongoose ODM, SQL, MySQL, Sequelize ORM
 - **Methodologies/Paradigms:** Block Element Modifier (BEM), Object-Oriented Programming (OOP), Model–view–controller (MVC)
 - **Integrated Development Environment:** VS Code
 - **Miscellaneous:** CLI, Git, GitHub, Microsoft Office
