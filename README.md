@@ -8,6 +8,8 @@
 ## 📁 Projects
 
 - [Portfolio](https://kkarrwrites.carrd.co/)
+- [Repositories](https://github.com/kkarrwrites?tab=repositories)
+
 ## 🎨 Skills
 
 - **Languages:** HTML, CSS, SCSS (Sass), JavaScript
