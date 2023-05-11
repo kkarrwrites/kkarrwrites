@@ -11,7 +11,7 @@
 
 ## 🎨 Skills
 
-- **Languages:** HTML, CSS, SCSS (Sass), JavaScript
+- **Languages:** HTML, CSS, SCSS, Sass, JavaScript, JSX
 - **Libraries/Frameworks:** Bootstrap, Bulma, Tailwind CSS
 - **JavaScript Libraries/Frameworks:** jQuery, Node.js, Express.js, React.js
 - **Databases:** NoSQL, MongoDB, Mongoose ODM, SQL, MySQL, Sequelize ORM
