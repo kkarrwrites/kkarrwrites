@@ -3,13 +3,7 @@
 - 👋 Hello! I'm K. Karr, a copy editor turned frontend web developer.
 - 🖥️ I got my start tinkering with HTML for Expage, GeoCities, and LiveJournal in high school.
 - 🗺️ After collecting a few degrees, living abroad for two years, and cultivating an eye for detail working as a copy editor for a decade, I returned to web development out of a strong desire to learn more about the technologies I use every day.
-- 🐱‍💻 I specialize in the frontend (HTML, CSS, Sass, JavaScript, React.js), as well as some backend (Node.js, Express.js, MongoDB).
-- 🧭 I'm currently exploring the following languages and technologies:
-  - React.js
-  - MongoDB
-  - Javascript data structures and algorithms
-  - Web Content Accessibility Guidelines (WCAG)
-  - Java
+- 🐱‍💻 I specialize in the frontend (HTML, CSS, SCSS/Sass, JavaScript, React.js), as well as some backend (Node.js, Express.js, MongoDB).
 
 ## 📁 Projects
 
@@ -17,7 +11,7 @@
 
 ## 🎨 Skills
 
-- **Languages:** HTML, CSS, SCSS, Sass, JavaScript, JSX
+- **Languages:** HTML, CSS, SCSS/Sass, JavaScript, JSX
 - **Libraries/Frameworks:** Bootstrap, Bulma, Tailwind CSS
 - **JavaScript Libraries/Frameworks:** jQuery, Node.js, Express.js, React.js
 - **Databases:** NoSQL, MongoDB, Mongoose ODM, SQL, MySQL, Sequelize ORM
