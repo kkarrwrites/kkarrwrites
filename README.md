@@ -8,8 +8,8 @@
 ## 📁 Projects
 
 - [Portfolio](https://kkarrwrites.carrd.co/)
-- [Tech Blog](https://gist.github.com/kkarrwrites)
 - [Frontend Mentor](https://www.frontendmentor.io/profile/kkarrwrites)
+- [GitHub Gist](https://gist.github.com/kkarrwrites)
 
 ## 🎨 Skills
 
