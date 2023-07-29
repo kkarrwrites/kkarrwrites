@@ -5,12 +5,6 @@
 - 🗺️ After collecting a few degrees, living abroad for two years, and cultivating an eye for detail working as a copy editor for a decade, I returned to web development out of a strong desire to learn more about the technologies I use every day.
 - 🐱‍💻 I specialize in the front end (HTML, CSS, SCSS/Sass, JavaScript, React.js), as well as some back end (Node.js, Express.js, MongoDB).
 
-## 📁 Projects
-
-- [Portfolio](https://kkarrwrites.carrd.co/)
-- [Frontend Mentor](https://www.frontendmentor.io/profile/kkarrwrites)
-- [GitHub Gist](https://gist.github.com/kkarrwrites)
-
 ## 🎨 Skills
 
 - **Languages:** HTML, CSS, SCSS/Sass, JavaScript, JSX
@@ -20,6 +14,16 @@
 - **Methodologies/Paradigms:** Block Element Modifier (BEM), Object-Oriented Programming (OOP), Model–view–controller (MVC)
 - **Integrated Development Environment:** VS Code
 - **Miscellaneous:** CLI, Git, GitHub, Microsoft Office
+
+## 📁 Portfolio
+
+- [Portfolio](https://kkarrwrites.carrd.co/)
+
+## 🔗 Elsewhere
+
+- [Frontend Mentor](https://www.frontendmentor.io/profile/kkarrwrites)
+- [GitHub Gist](https://gist.github.com/kkarrwrites)
+- [HackerRank](https://www.hackerrank.com/kkarrwrites)
 
 ## 📈 GitHub Stats
 
