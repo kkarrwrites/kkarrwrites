@@ -22,6 +22,7 @@
 
 ## 🔗 Elsewhere
 
+- [CodePen](https://codepen.io/kkarrwrites)
 - [Frontend Mentor](https://www.frontendmentor.io/profile/kkarrwrites)
 - [GitHub Gist](https://gist.github.com/kkarrwrites)
 - [HackerRank](https://www.hackerrank.com/kkarrwrites)
