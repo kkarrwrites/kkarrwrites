@@ -4,7 +4,7 @@
 - 🖥️ I got my start with the web by tinkering around with HTML for Expage, GeoCities, and LiveJournal many years ago.
 - 🗺️ After collecting a few degrees, living abroad for two years, and cultivating an eye for detail working as a copy editor for almost a decade, I returned to web development out of a strong desire to learn more about the technologies I use every day.
 - 🎓 In May 2023, I graduated from a full stack coding boot camp.
-- 🧐 Now I'm looking for a role in which I can grow as a developer and collaborate with a passionate team.
+- 🧐 I'm seeking a role in which I can grow as a developer and collaborate with a passionate team.
 - 🐱‍💻 I specialize in HTML, CSS, SCSS/Sass, JavaScript, and React.
 
 ## 🎨 Skills
