@@ -1,6 +1,6 @@
 ## 📝 Summary
 
-- 👋 Hello! I'm K. Karr, a copy editor and front end web developer.
+- 👋 Hello! I'm K. Karr, a front end web developer and copy editor.
 - 🖥️ I got my start with the web by tinkering around with HTML for Expage, GeoCities, and LiveJournal many years ago.
 - 🗺️ After collecting a few degrees, living abroad for two years, and cultivating an eye for detail working as a copy editor for almost a decade, I returned to web development out of a strong desire to learn more about the technologies I use every day.
 - 🎓 In May 2023, I graduated from a full stack coding boot camp.
