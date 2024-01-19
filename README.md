@@ -1,11 +1,10 @@
 ## 📝 Summary
 
-- 👋 Hello! I'm K. Karr, a front end web developer.
-- 🖥️ I got my start with the web by tinkering around with HTML for Expage, GeoCities, and LiveJournal many years ago.
+- 👋 Hello! I'm K. Karr, a front end web developer and designer.
+- 🖥️ I got my start with the web by tinkering around with HTML for Expage, GeoCities, LiveJournal, and Blogger many years ago.
 - 🗺️ After collecting a few degrees, living abroad for two years, and cultivating an eye for detail working as a copy editor for almost a decade, I returned to web development out of a strong desire to learn more about the technologies I use every day.
-- 🎓 In May 2023, I graduated from a full stack coding boot camp.
-- 🧐 Currently, I'm seeking a role in which I can grow as a developer and collaborate with a passionate team.
-- 🐱‍💻 I specialize in HTML, CSS, SCSS/Sass, JavaScript, and React.
+- 🎓 In May 2023, I graduated from UConn's Coding Boot Camp.
+- 🐱‍💻 I specialize in HTML, CSS, Sass, JavaScript, and React.
 
 ## 🎨 Skills
 
