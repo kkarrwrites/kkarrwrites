@@ -5,8 +5,8 @@
 - 🗺️ After collecting a few degrees, living abroad for two years, and cultivating an eye for detail working as a copy editor for a decade, I returned to web development out of a strong desire to learn more about the technologies I use every day.
 - 🐱‍💻 I specialize in HTML, CSS, Sass, JavaScript, and React.
 - 🧐 Currently, I'm studying:
-  - React with Kyle Cook's [React Simplified Course](https://reactsimplified.com).
-  - JavaScript with freeCodeCamp's [JavaScript Algorithms and Data Structures Course](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures) and Ilya Kantor's [The Modern JavaScript Tutorial](https://javascript.info).
+  - React with Kyle Cook's [React Simplified](https://reactsimplified.com).
+  - JavaScript with freeCodeCamp's [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures) and Ilya Kantor's [The Modern JavaScript Tutorial](https://javascript.info).
   - UI/UX with Google's [UX Design Professional Certificate](https://www.coursera.org/professional-certificates/google-ux-design).
 
 ## 🎨 Skills
