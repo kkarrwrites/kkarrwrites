@@ -19,8 +19,9 @@
 - **Integrated Development Environment:** Visual Studio Code
 - **Miscellaneous:** CLI, Git, GitHub
 
-## 📁 Portfolio
+## 📁 Resume and Portfolio
 
+- [LinkedIn](https://www.linkedin.com/in/kkarrwrites/)
 - [Portfolio](https://kkarrwrites.carrd.co/)
 
 ## 🔗 Elsewhere
