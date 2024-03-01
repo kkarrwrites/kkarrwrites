@@ -14,8 +14,7 @@
 - **Languages:** HTML5, CSS3, SCSS/Sass, JavaScript ES6+
 - **Libraries/Frameworks:** Bootstrap, Bulma, Tailwind CSS
 - **JavaScript Libraries/Frameworks:** jQuery, Node.js, Express.js, React.js
-- **Databases:** MongoDB, Mongoose ODM, MySQL, Sequelize ORM
-- **Methodologies/Paradigms:** Block Element Modifier (BEM), Object-Oriented Programming (OOP), Model–view–controller (MVC)
+- **Methodologies/Paradigms:** Block Element Modifier (BEM)
 - **Integrated Development Environment:** Visual Studio Code
 - **Miscellaneous:** CLI, Git, GitHub
 
