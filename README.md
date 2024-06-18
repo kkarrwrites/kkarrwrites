@@ -9,7 +9,7 @@
   - React with Kyle Cook's [React Simplified](https://reactsimplified.com).
   - UI/UX with Google's [UX Design Professional Certificate](https://www.coursera.org/professional-certificates/google-ux-design).
 - ⌨️ Currently, I'm working on:
-  - An Astro and Tailwind CSS project for [Luna Station Quarterly](https://github.com/jenniferlynparsons/lunastationquarterly)
+  - An Astro and Tailwind CSS project for [Luna Station Quarterly](https://github.com/jenniferlynparsons/lunastationquarterly).
 
 ## 🎨 Skills
 
