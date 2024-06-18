@@ -29,6 +29,7 @@
 - [Frontend Mentor](https://www.frontendmentor.io/profile/kkarrwrites)
 - [GitHub Gist](https://gist.github.com/kkarrwrites)
 - [HackerRank](https://www.hackerrank.com/kkarrwrites)
+- [LeetCode](https://leetcode.com/u/kkarrwrites)
 
 ## 📈 GitHub Stats
 
