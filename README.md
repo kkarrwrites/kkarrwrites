@@ -3,7 +3,7 @@
 - 👋 Hello! I'm K. Karr, a full stack web developer, certified by UConn's Coding Boot Camp.
 - 🖥️ I got my start with the web by tinkering around with HTML for Expage, GeoCities, and LiveJournal many years ago.
 - 🗺️ After collecting a few degrees, living abroad for two years, and cultivating an eye for detail working as a copy editor for a decade, I returned to web development out of a strong desire to learn more about the technologies I use every day.
-- 🐱‍💻 I specialize in the front end, particularly in CSS and JavaScript technologies like Astro and React.
+- 🐱‍💻 I specialize in the front end, particularly in CSS and JavaScript technologies.
 - 🧐 Currently, I'm studying:
   - JavaScript with freeCodeCamp's [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/) and Ilya Kantor's [The Modern JavaScript Tutorial](https://javascript.info).
   - React with Kyle Cook's [React Simplified](https://reactsimplified.com).
