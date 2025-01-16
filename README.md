@@ -17,7 +17,7 @@
 - **Development Tools:** CLI, Git, GitHub, Visual Studio Code, Chrome/Firefox Developer Tools, Figma
 - **Methodologies:** Responsive Design, BEM (Block Element Modifier)
 
-## 📁 Resume and Portfolio
+## 📁 LinkedIn and Portfolio
 
 - [LinkedIn](https://www.linkedin.com/in/kkarrwrites/)
 - [Portfolio](https://kkarrwrites.carrd.co/)
