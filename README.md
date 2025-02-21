@@ -12,7 +12,7 @@
 
 ## 🎨 Skills
 
-- **Front End Development:** HTML5, CSS3, JavaScript ES6+, SCSS (Sass), Bootstrap, Tailwind CSS, React, Astro
+- **Front End Development:** HTML5, Markdown, CSS3, JavaScript ES6+, SCSS (Sass), Bootstrap, Tailwind CSS, React, Astro
 - **Back End Development:** Express, Node.js, MongoDB, SQL, RESTful APIs, GraphQL
 - **Development Tools:** CLI, Git, GitHub, Visual Studio Code, Chrome/Firefox Developer Tools, Figma
 - **Methodologies:** Responsive Design, BEM (Block Element Modifier)
