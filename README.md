@@ -14,7 +14,7 @@
 
 - **Front End Development:** HTML5, CSS3, SCSS (Sass), Bootstrap, Tailwind CSS, JavaScript ES6+, Astro, React
 - **Back End Development:** Express, Node.js, MongoDB, SQL, RESTful APIs
-- **Development Tools:** CLI, Figma, Git, GitHub, Visual Studio Code
+- **Development Tools:** CLI, Git, GitHub, Visual Studio Code, Figma
 - **Methodologies:** Responsive Design, BEM (Block Element Modifier)
 
 ## 📁 LinkedIn and Portfolio
