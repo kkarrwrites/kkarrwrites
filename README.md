@@ -15,13 +15,13 @@
 - **Markup Languages:** HTML5, Markdown
 - **Style Sheet Languages:** CSS3, Sass (SCSS)
    - **CSS Frameworks:** Bootstrap, Tailwind CSS
-- **Languages:** JavaScript ES6+
-  - **JavaScript Web Frameworks:** Astro, React
+- **Programming Languages:** JavaScript ES6+
+  - **JavaScript Front End Frameworks:** Astro, React
   - **JavaScript Back End Frameworks:** Express.js, Node.js
 - **Databases:** MongoDB, SQL
 - **Development Tools:** CLI, Git, GitHub, Visual Studio Code
 - **Design Tools:** Figma
-- **Methodologies:** BEM (Block Element Modifier), Model–view–controller (MVC), Responsive Design
+- **Methodologies:** BEM (Block Element Modifier), Model–View–Controller (MVC), Responsive Design
 
 ## 📁 LinkedIn and Portfolio
 
