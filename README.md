@@ -1,6 +1,6 @@
 ## 📝 Summary
 
-- 👋 Hello! I'm K. Karr, a web developer, certified by UConn's Coding Boot Camp.
+- 👋 Hello! I'm K. Karr, a web developer, certified by the University of Connecticut's Full-Stack Web Development Boot Camp.
 - 🖥️ I specialize in the front end, particularly in CSS and JavaScript.
 - ⌨️ Currently, I'm working on:
   - An Astro and Tailwind CSS project for [Luna Station Quarterly](https://github.com/jenniferlynparsons/lunastationquarterly).
@@ -23,7 +23,6 @@
 ## 📚 Continuing Education
 
 - [Introduction to Web Accessibility](https://www.edx.org/learn/web-accessibility/the-world-wide-web-consortium-w3c-introduction-to-web-accessibility) (Audit Track), W3Cx WAI0.1x, edX, November 2023
-- Full-Stack Web Development Boot Camp, University of Connecticut, School of Engineering, May 2023
 
 ## 📁 Portfolio
 
