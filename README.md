@@ -23,7 +23,7 @@
 ## 📚 Education and Training
 
 - [Introduction to Web Accessibility](https://www.edx.org/learn/web-accessibility/the-world-wide-web-consortium-w3c-introduction-to-web-accessibility) (Audit Track), W3Cx WAI0.1x, edX, November 2023
-- Full Stack Web Development Boot Camp, University of Connecticut, School of Engineering, May 2023
+- [Full Stack Web Development Boot Camp](https://2u.com/about/boot-camps/), University of Connecticut, School of Engineering, 2U, Inc., May 2023
 - [Responsive Web Design](https://www.freecodecamp.org/certification/kkarrwrites/responsive-web-design), freeCodeCamp, October 2021
 
 ## 📁 Portfolio
