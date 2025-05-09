@@ -5,7 +5,7 @@
 - ⌨️ Currently, I'm working on:
   - An Astro and Tailwind CSS project for [Luna Station Quarterly](https://github.com/jenniferlynparsons/lunastationquarterly).
 - 📖 Currently, I'm studying:
-  - [Artificial Intelligence and Career Empowerment](https://www.rhsmith.umd.edu/programs/executive-education/learning-opportunities-individuals/free-online-certificate-artificial-intelligence-and-career-empowerment), University of Maryland, Robert H. Smith School of Business
+  - [Artificial Intelligence and Career Empowerment](https://www.rhsmith.umd.edu/programs/executive-education/learning-opportunities-individuals/free-online-certificate-artificial-intelligence-and-career-empowerment), University of Maryland, Robert H. Smith School of Business, June 2025
   - [CS50's Introduction to Computer Science](https://www.edx.org/learn/computer-science/harvard-university-cs50-s-introduction-to-computer-science) (Audit Track), HarvardX, edX
 
 ## 🎨 Skills
