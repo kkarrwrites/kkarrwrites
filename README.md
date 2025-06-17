@@ -5,7 +5,7 @@
 - ⌨️ Currently, I'm working on:
   - An Astro and Tailwind CSS project for [Luna Station Quarterly](https://github.com/jenniferlynparsons/lunastationquarterly).
 - 📖 Currently, I'm studying:
-  - [Artificial Intelligence and Career Empowerment](https://www.rhsmith.umd.edu/programs/executive-education/learning-opportunities-individuals/free-online-certificate-artificial-intelligence-and-career-empowerment), University of Maryland, Robert H. Smith School of Business, June 2025
+  - [Connecticut Online AI Academy](https://www.charteroak.edu/ai-academy/), Charter Oak State College + [Google AI Essentials](https://www.coursera.org/google-specializations/ai-essentials-gwg), Coursera (July 2025)
   - [CS50's Introduction to Computer Science](https://www.edx.org/learn/computer-science/harvard-university-cs50-s-introduction-to-computer-science) (Audit Track), HarvardX, edX
 
 ## 🎨 Skills
@@ -23,6 +23,7 @@
 
 ## 📚 Education and Training
 
+- [Artificial Intelligence and Career Empowerment](https://www.rhsmith.umd.edu/programs/executive-education/learning-opportunities-individuals/free-online-certificate-artificial-intelligence-and-career-empowerment), University of Maryland, Robert H. Smith School of Business, June 2025
 - [Introduction to Web Accessibility](https://www.edx.org/learn/web-accessibility/the-world-wide-web-consortium-w3c-introduction-to-web-accessibility) (Audit Track), W3Cx, edX, November 2023
 - [Full Stack Web Development Boot Camp](https://2u.com/about/boot-camps/), University of Connecticut, School of Engineering, 2U, Inc., May 2023
 - [Responsive Web Design Certification](https://www.freecodecamp.org/certification/kkarrwrites/responsive-web-design), freeCodeCamp, October 2021
