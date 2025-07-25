@@ -1,6 +1,6 @@
 ## 📝 Summary
 
-- Hello! 👋 I'm K. Karr. I like to tinker with websites.
+- Hello! 👋 I'm K. Karr.
 - I specialize in the front end, particularly `.md` `.html` `.css` `.scss` `.js` `.jsx` and `astro`.
 
 ## 🗂️ Projects
