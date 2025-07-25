@@ -1,7 +1,7 @@
 ## 📝 Summary
 
 - Hello! 👋 I'm K. Karr.
-- I specialize in the front end web development, particularly `.md` `.html` `.css` `.scss` `.js` `.jsx` and `astro`.
+- I specialize in the front end web development, particularly in `.md` `.html` `.css` `.scss` `.js` `.jsx` and `astro`.
 
 ## 🗂️ Projects
 
