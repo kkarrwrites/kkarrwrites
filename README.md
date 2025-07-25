@@ -7,7 +7,7 @@
 
 - Currently, I'm working on:
   - An Astro and Tailwind CSS project for [Luna Station Quarterly](https://github.com/jenniferlynparsons/lunastationquarterly).
-- In the past, I've completed various projects viewable on my [portfolio](https://kkarrwrites.carrd.co/).
+- In the past, I've worked on various projects viewable on my [portfolio](https://kkarrwrites.carrd.co/).
 
 ## 📚 Education
 
