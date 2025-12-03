@@ -22,7 +22,3 @@
   - [Introduction to Web Accessibility](https://www.edx.org/learn/web-accessibility/the-world-wide-web-consortium-w3c-introduction-to-web-accessibility) (Audit Track), W3Cx, edX, November 2023
   - **[Full Stack Web Development Coding Boot Camp](https://2u.com/about/boot-camps/), University of Connecticut, School of Engineering, 2U, Inc., May 2023 🎉**
   - [Responsive Web Design Certification](https://www.freecodecamp.org/certification/kkarrwrites/responsive-web-design), freeCodeCamp, October 2021
-
-## 📈 GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=kkarrwrites&layout=compact"/>
