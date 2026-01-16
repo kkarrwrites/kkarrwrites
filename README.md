@@ -13,7 +13,7 @@
 ## 📚 Training
 
 - 📖 Currently, I'm exploring:
-  - [CS50's Introduction to Computer Science](https://www.edx.org/learn/computer-science/harvard-university-cs50-s-introduction-to-computer-science) (Audit Track), HarvardX, edX
+  - [CS50's Introduction to Computer Science](https://www.edx.org/learn/computer-science/harvard-university-cs50-s-introduction-to-computer-science) (Audit Track for 2024), HarvardX, edX
   - [React Simplified](https://reactsimplified.com/), Web Dev Simplified, Kyle Cook
 - In the past, I've completed:
   - [KICKOFF™ Agile and Predictive Course](https://www.pmi.org/kickoff/), Project Management Institute (PMI), September 2025
